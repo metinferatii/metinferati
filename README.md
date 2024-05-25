@@ -7,7 +7,7 @@ Front-end web developer
 I'm a developer with 4+ years of experience in web development. For the last few years, I have specialized in React, Redux, and JavaScript. Besides writing code, I was responsible for maintaining communication with clients, task planning & making estimations.
 
 * 🖥️  See my portfolio at [metinferati.com](http://metinferati.com)
-* ✉️  You can contact me at [metinferati15@gmail.com](mailto:metinferati15@gmail.com)
+* ✉️  You can contact me at [hi@metinferati.com](mailto:hi@metinferati.com)
 * 🧠  I'm learning everything in JavaScript
 * ⚡  I also do content creation
 
